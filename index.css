@@ -37,6 +37,10 @@
     align-items: center;
 }
 
+.box:hover{
+    background: rgba(105, 94, 94, 0.5);
+}
+
 .header {
     display: flex;
     align-items: center;
